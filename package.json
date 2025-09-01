@@ -1,0 +1,8 @@
+{
+  "name": "student-data-fetcher",
+  "version": "1.0.0",
+  "description": "Fetch student data from SBTET Telangana API",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
